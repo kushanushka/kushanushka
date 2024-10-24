@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kushanushka" alt="kushanushka" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kushanushka&theme=radical" alt="kushanushka" />
   </a>
 </p>
 <br/>
@@ -99,13 +99,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushanushka&show_icons=true&locale=en&layout=compact" alt="kushanushka" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushanushka&show_icons=true&locale=en&layout=compact&theme=radical" alt="kushanushka" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushanushka&show_icons=true&locale=en" alt="kushanushka" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushanushka&show_icons=true&locale=en&theme=radical" alt="kushanushka" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushanushka&" alt="kushanushka" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushanushka&theme=radical" alt="kushanushka" />
 </p>
