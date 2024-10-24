@@ -33,6 +33,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushanucy89" height="30" width="40" />
   </a>
 </p>
+<br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -94,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a> 
 </p>
-
+<br/>
 
 
 <p align="center">
